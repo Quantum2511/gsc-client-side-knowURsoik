@@ -46,8 +46,8 @@ Connect the sensors to the Raspberry Pi GPIO pins as follows:
 
 ## Configuration
 
-1. Set up the PostgreSQL database and obtain the connection string.
-2. Store the database connection string in a `.env` file with the key `DATABASE_URL`.
+1. PostgreSQL server is setup on neon-tech
+2. Connection string is stored in .env file
 
 ## Usage
 
