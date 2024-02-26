@@ -19,7 +19,7 @@ KnowURSoil is a client-side application for a plant monitoring system. It is des
 
 ## Software Requirements
 
-- Python 3.x
+- Python 3.11
 - Tkinter for GUI
 - PostgreSQL
 - Adafruit_DHT library
