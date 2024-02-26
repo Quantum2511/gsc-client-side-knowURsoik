@@ -27,7 +27,9 @@ KnowURSoil is a client-side application for a plant monitoring system. It is des
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Quantum2511/gsc-client-side-knowURsoil.git
+2. Install required packages:
+pip install -r requirements.txt
 
 
 ## Sensor Connections
