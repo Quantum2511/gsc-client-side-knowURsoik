@@ -53,6 +53,7 @@ Connect the sensors to the Raspberry Pi GPIO pins as follows:
 
 Run the application using Python:
 python3.11 gsc-client-side-soilReader.py
+
 Follow the on-screen instructions to sign in and use the application.
 
 
