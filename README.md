@@ -54,15 +54,31 @@ Run the application using Python:
 
 Follow the on-screen instructions to sign in and use the application.
 
-## Application Structure
 
-- `app.py`: Main application script with GUI and sensor interaction logic.
-- `functions.py`: Contains helper functions and sensor reading logic.
-- Additional scripts for specific functionalities.
+## File Structure
+
+- `gsc-client-side-soilReader.py`: Main Python script for reading soil sensor data.
+- `.env`: Environment variables for database configuration.
+- `requirements.txt`: Lists all Python dependencies.
 
 ## Contributing
 
-Contributions are welcome. Please follow the standard fork, branch, and pull request workflow.
+Contributions to this project are welcome. Please follow the standard GitHub workflow:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Commit your changes.
+4. Push to the branch.
+5. Submit a pull request.
+
+## License
+
+[Specify the license, if applicable]
+
+## Acknowledgments
+
+- Google Solution Challenge
+- Project contributors and maintainers
 
 ## License
 
